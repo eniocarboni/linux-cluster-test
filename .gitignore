@@ -1,0 +1,9 @@
+**/*~
+**/*.bak
+**/*.sw[abcdefghijklmnop]
+*console.log
+.vagrant
+vagrant_pwd/.fencecluster_pwd
+vagrant_pwd/.hacluster_pwd
+vagrant_pwd/.vagrant_pwd
+**/note*
